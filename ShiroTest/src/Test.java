@@ -28,6 +28,6 @@ public class Test {
 		//Get the Session (Its not a WEB session)
 		Session session = currentSubject.getSession();
 		
-		//Hell
+		//Hello
 	}
 }
